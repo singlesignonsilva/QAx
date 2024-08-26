@@ -1,0 +1,29 @@
+{
+    "success":{
+        "name": "Mariélia um livro",
+        "is_done": false
+    },
+
+    "duplicate":{
+        "name": "omprar segundo livro",
+        "is_done": false
+    },
+
+    "required":{
+        "name": " ",
+        "is_done": false
+    },
+
+    "update":{
+        "name":"Pagar fatura do cartão de crédito",
+        "is_done": false
+    },
+
+    "delete":{
+        "name": "Testes em RUBY",
+        "is_done":false
+
+
+    }
+
+}
